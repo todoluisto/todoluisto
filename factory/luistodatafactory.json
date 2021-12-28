@@ -1,0 +1,9 @@
+{
+	"name": "luistodatafactory",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84fb35df-f7eb-4072-b6d8-3ff8e7f32571",
+		"tenantId": "f87c90d5-590d-441a-8f94-133fdd850730"
+	}
+}
